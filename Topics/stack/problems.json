@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-22T06:45:48.724Z",
+  "updatedAt": "2026-09-22T06:45:53.452Z",
   "problems": [
     {
       "frontendId": "20",
@@ -122,7 +122,7 @@
           "filename": "1249-minimum-remove-to-make-valid-parentheses.java",
           "path": "1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.java",
           "sha": "6ab99eca024d63a8c6516b103caf60149a7d4d65",
-          "lastSyncedAt": "2026-09-22T06:39:58.092Z"
+          "lastSyncedAt": "2026-09-22T06:45:53.452Z"
         }
       ]
     },
