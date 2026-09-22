@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-22T06:53:50.183Z",
+  "updatedAt": "2026-09-22T06:53:56.675Z",
   "problems": [
     {
       "frontendId": "155",
@@ -102,7 +102,7 @@
           "filename": "1396-design-underground-system.cpp",
           "path": "1396-design-underground-system/1396-design-underground-system.cpp",
           "sha": "e9f8332d4c1c017105715337a2d56910a4254ed7",
-          "lastSyncedAt": "2026-09-22T06:45:10.735Z"
+          "lastSyncedAt": "2026-09-22T06:53:56.675Z"
         }
       ]
     },
