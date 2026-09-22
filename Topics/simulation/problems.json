@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-22T06:54:29.483Z",
+  "updatedAt": "2026-09-22T07:01:38.006Z",
   "problems": [
     {
       "frontendId": "735",
@@ -62,7 +62,7 @@
           "filename": "1603-design-parking-system.cpp",
           "path": "1603-design-parking-system/1603-design-parking-system.cpp",
           "sha": "33eb5d350d10d0cc4b7528903af63fcd48cab6ba",
-          "lastSyncedAt": "2026-09-22T06:53:50.183Z"
+          "lastSyncedAt": "2026-09-22T07:01:38.006Z"
         }
       ]
     }
