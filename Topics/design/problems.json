@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-22T06:32:41.236Z",
+  "updatedAt": "2026-09-22T06:33:11.554Z",
   "problems": [
     {
       "frontendId": "622",
@@ -22,7 +22,7 @@
           "filename": "0622-design-circular-queue.java",
           "path": "0622-design-circular-queue/0622-design-circular-queue.java",
           "sha": "a815f2b0b53a089ce76fb132714ed4bc41e17e5e",
-          "lastSyncedAt": "2026-09-22T06:32:41.236Z"
+          "lastSyncedAt": "2026-09-22T06:33:11.554Z"
         }
       ]
     }
