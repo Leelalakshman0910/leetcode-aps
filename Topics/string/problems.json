@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-22T06:43:16.359Z",
+  "updatedAt": "2026-09-22T06:44:10.550Z",
   "problems": [
     {
       "frontendId": "20",
@@ -62,7 +62,7 @@
           "filename": "1396-design-underground-system.cpp",
           "path": "1396-design-underground-system/1396-design-underground-system.cpp",
           "sha": "e9f8332d4c1c017105715337a2d56910a4254ed7",
-          "lastSyncedAt": "2026-09-22T06:42:32.215Z"
+          "lastSyncedAt": "2026-09-22T06:44:10.550Z"
         }
       ]
     }
