@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-22T06:46:04.985Z",
+  "updatedAt": "2026-09-22T06:46:13.906Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,6 +83,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "3a92cd36523794a8fb2818f094d760f9a95f7847",
           "lastSyncedAt": "2026-09-22T06:45:42.273Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0901-online-stock-span.java",
+          "path": "0901-online-stock-span/0901-online-stock-span.java",
+          "sha": "e25a7f003ed0d872f3fe423efa683e445b48a4a9",
+          "lastSyncedAt": "2026-09-22T06:46:13.906Z"
         }
       ]
     },
