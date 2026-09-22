@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T06:44:10.550Z",
+  "updatedAt": "2026-09-22T06:45:10.735Z",
   "problems": [
     {
       "frontendId": "1396",
@@ -22,7 +22,7 @@
           "filename": "1396-design-underground-system.cpp",
           "path": "1396-design-underground-system/1396-design-underground-system.cpp",
           "sha": "e9f8332d4c1c017105715337a2d56910a4254ed7",
-          "lastSyncedAt": "2026-09-22T06:44:10.550Z"
+          "lastSyncedAt": "2026-09-22T06:45:10.735Z"
         }
       ]
     }
