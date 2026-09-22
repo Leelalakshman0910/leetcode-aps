@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-22T06:44:30.585Z",
+  "updatedAt": "2026-09-22T06:45:17.789Z",
   "problems": [
     {
       "frontendId": "622",
@@ -42,7 +42,7 @@
           "filename": "1472-design-browser-history.cpp",
           "path": "1472-design-browser-history/1472-design-browser-history.cpp",
           "sha": "a12e45f3243e4dfec6a6eaae0bdb8fa3d3b19d5a",
-          "lastSyncedAt": "2026-09-22T06:44:16.363Z"
+          "lastSyncedAt": "2026-09-22T06:45:17.789Z"
         }
       ]
     }
