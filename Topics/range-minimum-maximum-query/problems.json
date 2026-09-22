@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "range-minimum-maximum-query",
+    "name": "Range Minimum/Maximum Query"
+  },
+  "updatedAt": "2026-09-22T06:33:28.766Z",
+  "problems": [
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0239-sliding-window-maximum.java",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
+          "sha": "71577295a200c271b04b7eb8bb231202014868d4",
+          "lastSyncedAt": "2026-09-22T06:33:28.766Z"
+        }
+      ]
+    }
+  ]
+}
