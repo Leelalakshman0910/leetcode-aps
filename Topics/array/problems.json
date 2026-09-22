@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T06:38:35.752Z",
+  "updatedAt": "2026-09-22T06:39:08.489Z",
   "problems": [
     {
       "frontendId": "239",
@@ -43,6 +43,26 @@
           "path": "0622-design-circular-queue/0622-design-circular-queue.java",
           "sha": "a815f2b0b53a089ce76fb132714ed4bc41e17e5e",
           "lastSyncedAt": "2026-09-22T06:38:12.928Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1472",
+      "title": "Design Browser History",
+      "slug": "design-browser-history",
+      "problemName": "1472-design-browser-history",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-browser-history/",
+      "folderPath": "1472-design-browser-history/",
+      "readmePath": "1472-design-browser-history/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1472-design-browser-history.cpp",
+          "path": "1472-design-browser-history/1472-design-browser-history.cpp",
+          "sha": "a12e45f3243e4dfec6a6eaae0bdb8fa3d3b19d5a",
+          "lastSyncedAt": "2026-09-22T06:39:08.489Z"
         }
       ]
     }
