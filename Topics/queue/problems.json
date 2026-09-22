@@ -4,7 +4,7 @@
     "slug": "queue",
     "name": "Queue"
   },
-  "updatedAt": "2026-09-22T07:01:02.571Z",
+  "updatedAt": "2026-09-22T07:01:26.746Z",
   "problems": [
     {
       "frontendId": "232",
@@ -42,7 +42,7 @@
           "filename": "0239-sliding-window-maximum.java",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "71577295a200c271b04b7eb8bb231202014868d4",
-          "lastSyncedAt": "2026-09-22T06:53:38.343Z"
+          "lastSyncedAt": "2026-09-22T07:01:26.746Z"
         }
       ]
     },
