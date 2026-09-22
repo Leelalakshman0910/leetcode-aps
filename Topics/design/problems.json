@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-22T06:45:48.724Z",
+  "updatedAt": "2026-09-22T06:46:13.906Z",
   "problems": [
     {
       "frontendId": "155",
@@ -63,6 +63,26 @@
           "path": "0622-design-circular-queue/0622-design-circular-queue.java",
           "sha": "a815f2b0b53a089ce76fb132714ed4bc41e17e5e",
           "lastSyncedAt": "2026-09-22T06:44:30.585Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0901-online-stock-span.java",
+          "path": "0901-online-stock-span/0901-online-stock-span.java",
+          "sha": "e25a7f003ed0d872f3fe423efa683e445b48a4a9",
+          "lastSyncedAt": "2026-09-22T06:46:13.906Z"
         }
       ]
     },
