@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-22T06:33:11.554Z",
+  "updatedAt": "2026-09-22T06:34:32.669Z",
   "problems": [
     {
       "frontendId": "622",
@@ -23,6 +23,26 @@
           "path": "0622-design-circular-queue/0622-design-circular-queue.java",
           "sha": "a815f2b0b53a089ce76fb132714ed4bc41e17e5e",
           "lastSyncedAt": "2026-09-22T06:33:11.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1603",
+      "title": "Design Parking System",
+      "slug": "design-parking-system",
+      "problemName": "1603-design-parking-system",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-parking-system/",
+      "folderPath": "1603-design-parking-system/",
+      "readmePath": "1603-design-parking-system/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1603-design-parking-system.cpp",
+          "path": "1603-design-parking-system/1603-design-parking-system.cpp",
+          "sha": "33eb5d350d10d0cc4b7528903af63fcd48cab6ba",
+          "lastSyncedAt": "2026-09-22T06:34:32.669Z"
         }
       ]
     }
