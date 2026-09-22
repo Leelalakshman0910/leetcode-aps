@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-09-22T06:40:14.479Z",
+  "problems": [
+    {
+      "frontendId": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "problemName": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+      "folderPath": "1475-final-prices-with-a-special-discount-in-a-shop/",
+      "readmePath": "1475-final-prices-with-a-special-discount-in-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1475-final-prices-with-a-special-discount-in-a-shop.java",
+          "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.java",
+          "sha": "7aa2d12d7b213b2d7d854e440bb372002deda389",
+          "lastSyncedAt": "2026-09-22T06:40:14.479Z"
+        }
+      ]
+    }
+  ]
+}
