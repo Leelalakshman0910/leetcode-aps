@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-22T06:43:51.177Z",
+  "updatedAt": "2026-09-22T06:44:51.957Z",
   "problems": [
     {
       "frontendId": "239",
@@ -22,7 +22,7 @@
           "filename": "0239-sliding-window-maximum.java",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "71577295a200c271b04b7eb8bb231202014868d4",
-          "lastSyncedAt": "2026-09-22T06:43:51.177Z"
+          "lastSyncedAt": "2026-09-22T06:44:51.957Z"
         }
       ]
     }
