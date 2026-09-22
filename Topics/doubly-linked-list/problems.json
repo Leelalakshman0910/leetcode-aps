@@ -4,7 +4,7 @@
     "slug": "doubly-linked-list",
     "name": "Doubly-Linked List"
   },
-  "updatedAt": "2026-09-22T06:45:17.789Z",
+  "updatedAt": "2026-09-22T06:54:03.542Z",
   "problems": [
     {
       "frontendId": "1472",
@@ -22,7 +22,7 @@
           "filename": "1472-design-browser-history.cpp",
           "path": "1472-design-browser-history/1472-design-browser-history.cpp",
           "sha": "a12e45f3243e4dfec6a6eaae0bdb8fa3d3b19d5a",
-          "lastSyncedAt": "2026-09-22T06:45:17.789Z"
+          "lastSyncedAt": "2026-09-22T06:54:03.542Z"
         }
       ]
     }
