@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-22T06:46:38.886Z",
+  "updatedAt": "2026-09-22T06:54:54.637Z",
   "problems": [
     {
       "frontendId": "496",
@@ -82,7 +82,7 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.java",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.java",
           "sha": "7aa2d12d7b213b2d7d854e440bb372002deda389",
-          "lastSyncedAt": "2026-09-22T06:46:04.985Z"
+          "lastSyncedAt": "2026-09-22T06:54:54.637Z"
         }
       ]
     }
