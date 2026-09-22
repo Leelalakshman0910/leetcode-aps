@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-22T06:44:37.871Z",
+  "updatedAt": "2026-09-22T06:53:21.783Z",
   "problems": [
     {
       "frontendId": "199",
@@ -22,7 +22,7 @@
           "filename": "0199-binary-tree-right-side-view.java",
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
           "sha": "f333c025eaea136a9fd6527da55d45439f7e7a7b",
-          "lastSyncedAt": "2026-09-22T06:44:37.871Z"
+          "lastSyncedAt": "2026-09-22T06:53:21.783Z"
         }
       ]
     }
