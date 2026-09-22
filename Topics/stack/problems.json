@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-22T06:46:31.207Z",
+  "updatedAt": "2026-09-22T06:46:38.886Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
           "sha": "124c65561bff85b42fd47755f32f41150d98db08",
           "lastSyncedAt": "2026-09-22T06:45:30.288Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0496-next-greater-element-i.java",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.java",
+          "sha": "d29d86205e040af1c88930ef5f384e1d216c9ac7",
+          "lastSyncedAt": "2026-09-22T06:46:38.886Z"
         }
       ]
     },
