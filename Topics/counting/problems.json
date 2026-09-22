@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-22T06:45:03.637Z",
+  "updatedAt": "2026-09-22T06:46:23.837Z",
   "problems": [
     {
       "frontendId": "1603",
@@ -23,6 +23,26 @@
           "path": "1603-design-parking-system/1603-design-parking-system.cpp",
           "sha": "33eb5d350d10d0cc4b7528903af63fcd48cab6ba",
           "lastSyncedAt": "2026-09-22T06:45:03.637Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "problemName": "1704-determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+      "folderPath": "1704-determine-if-string-halves-are-alike/",
+      "readmePath": "1704-determine-if-string-halves-are-alike/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1704-determine-if-string-halves-are-alike.java",
+          "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.java",
+          "sha": "a4173439505fcfccb1ff4020d8d43ee98ef7e17f",
+          "lastSyncedAt": "2026-09-22T06:46:23.837Z"
         }
       ]
     }
