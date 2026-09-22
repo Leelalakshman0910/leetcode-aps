@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T06:42:40.196Z",
+  "updatedAt": "2026-09-22T06:42:58.538Z",
   "problems": [
     {
       "frontendId": "239",
@@ -82,7 +82,7 @@
           "filename": "0946-validate-stack-sequences.java",
           "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
           "sha": "a2004931e2dd52805b11fcc36899fecefadc6a3d",
-          "lastSyncedAt": "2026-09-22T06:39:35.867Z"
+          "lastSyncedAt": "2026-09-22T06:42:58.538Z"
         }
       ]
     },
