@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T06:44:16.363Z",
+  "updatedAt": "2026-09-22T06:44:30.585Z",
   "problems": [
     {
       "frontendId": "239",
@@ -42,7 +42,7 @@
           "filename": "0622-design-circular-queue.java",
           "path": "0622-design-circular-queue/0622-design-circular-queue.java",
           "sha": "a815f2b0b53a089ce76fb132714ed4bc41e17e5e",
-          "lastSyncedAt": "2026-09-22T06:43:30.896Z"
+          "lastSyncedAt": "2026-09-22T06:44:30.585Z"
         }
       ]
     },
