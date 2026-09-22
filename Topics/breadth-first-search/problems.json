@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-22T06:32:59.722Z",
+  "updatedAt": "2026-09-22T06:33:17.021Z",
   "problems": [
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0102-binary-tree-level-order-traversal.java",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.java",
+          "sha": "0cf36d53f158b41e56d3956d7eb0237767818e1b",
+          "lastSyncedAt": "2026-09-22T06:33:17.021Z"
+        }
+      ]
+    },
     {
       "frontendId": "199",
       "title": "Binary Tree Right Side View",
