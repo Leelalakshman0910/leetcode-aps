@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-22T06:46:58.739Z",
+  "updatedAt": "2026-09-22T06:55:29.691Z",
   "problems": [
     {
       "frontendId": "142",
@@ -42,7 +42,7 @@
           "filename": "0160-intersection-of-two-linked-lists.java",
           "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.java",
           "sha": "62236512962282a609314c7ac883fb5ba859da68",
-          "lastSyncedAt": "2026-09-22T06:46:48.413Z"
+          "lastSyncedAt": "2026-09-22T06:55:29.691Z"
         }
       ]
     }
