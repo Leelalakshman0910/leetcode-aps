@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "updatedAt": "2026-09-22T06:38:56.335Z",
+  "problems": [
+    {
+      "frontendId": "1396",
+      "title": "Design Underground System",
+      "slug": "design-underground-system",
+      "problemName": "1396-design-underground-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-underground-system/",
+      "folderPath": "1396-design-underground-system/",
+      "readmePath": "1396-design-underground-system/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1396-design-underground-system.cpp",
+          "path": "1396-design-underground-system/1396-design-underground-system.cpp",
+          "sha": "e9f8332d4c1c017105715337a2d56910a4254ed7",
+          "lastSyncedAt": "2026-09-22T06:38:56.335Z"
+        }
+      ]
+    }
+  ]
+}
