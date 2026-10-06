@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T06:02:01.571Z",
+  "updatedAt": "2026-10-06T06:03:06.132Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "9dbce83af6bfa256bcab84ef6afb71ffba4bfff9",
           "lastSyncedAt": "2026-10-06T06:01:37.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1154",
+      "title": "Day of the Year",
+      "slug": "day-of-the-year",
+      "problemName": "1154-day-of-the-year",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/day-of-the-year/",
+      "folderPath": "1154-day-of-the-year/",
+      "readmePath": "1154-day-of-the-year/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1154-day-of-the-year.java",
+          "path": "1154-day-of-the-year/1154-day-of-the-year.java",
+          "sha": "63e867f38751e5867683c39ea2edf9d1f982b732",
+          "lastSyncedAt": "2026-10-06T06:03:06.132Z"
         }
       ]
     },
