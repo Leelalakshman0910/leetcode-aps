@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T06:04:17.201Z",
+  "updatedAt": "2026-10-06T06:04:35.174Z",
   "problems": [
     {
       "frontendId": "75",
@@ -23,6 +23,26 @@
           "path": "0075-sort-colors/0075-sort-colors.java",
           "sha": "cab526771930b30ac2fede40f433460529ab3add",
           "lastSyncedAt": "2026-10-06T06:03:52.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "0905-sort-array-by-parity/",
+      "readmePath": "0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0905-sort-array-by-parity.java",
+          "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.java",
+          "sha": "d3a70817b87563ef0556033f26d3ec2a2dd77edf",
+          "lastSyncedAt": "2026-10-06T06:04:35.174Z"
         }
       ]
     },
