@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-06T06:04:08.768Z",
+  "updatedAt": "2026-10-06T06:04:53.605Z",
   "problems": [
     {
       "frontendId": "724",
@@ -23,6 +23,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "0d318ef9860fa40c8a5460e0372e0e1d93947b44",
           "lastSyncedAt": "2026-10-06T06:04:08.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "1480-running-sum-of-1d-array/",
+      "readmePath": "1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1480-running-sum-of-1d-array.java",
+          "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
+          "sha": "bf8d1926a067bf69413d21c926cf22c22bdede38",
+          "lastSyncedAt": "2026-10-06T06:04:53.605Z"
         }
       ]
     }
