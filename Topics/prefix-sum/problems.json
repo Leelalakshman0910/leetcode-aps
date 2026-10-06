@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-10-06T06:04:08.768Z",
+  "problems": [
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0724-find-pivot-index.java",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.java",
+          "sha": "0d318ef9860fa40c8a5460e0372e0e1d93947b44",
+          "lastSyncedAt": "2026-10-06T06:04:08.768Z"
+        }
+      ]
+    }
+  ]
+}
