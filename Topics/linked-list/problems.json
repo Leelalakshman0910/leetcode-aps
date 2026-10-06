@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-06T06:02:30.769Z",
+  "updatedAt": "2026-10-06T06:02:41.326Z",
   "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
+          "sha": "d60790c94c8648036209618a0c9ef11a350db287",
+          "lastSyncedAt": "2026-10-06T06:02:41.326Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
