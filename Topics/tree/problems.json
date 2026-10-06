@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-10-06T06:00:12.090Z",
+  "updatedAt": "2026-10-06T06:54:08.494Z",
   "problems": [
     {
       "frontendId": "102",
@@ -42,7 +42,7 @@
           "filename": "0199-binary-tree-right-side-view.java",
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
           "sha": "f333c025eaea136a9fd6527da55d45439f7e7a7b",
-          "lastSyncedAt": "2026-10-06T06:00:04.478Z"
+          "lastSyncedAt": "2026-10-06T06:54:08.494Z"
         }
       ]
     }
