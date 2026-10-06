@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-06T06:02:41.326Z",
+  "updatedAt": "2026-10-06T06:02:50.466Z",
   "problems": [
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0025-reverse-nodes-in-k-group.java",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
+          "sha": "e02059207add6d917fb14f06e0e91824bd08b298",
+          "lastSyncedAt": "2026-10-06T06:02:50.466Z"
+        }
+      ]
+    },
     {
       "frontendId": "141",
       "title": "Linked List Cycle",
