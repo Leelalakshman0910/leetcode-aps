@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-06T06:00:32.739Z",
+  "updatedAt": "2026-10-06T06:01:12.209Z",
   "problems": [
     {
       "frontendId": "735",
@@ -42,7 +42,7 @@
           "filename": "0946-validate-stack-sequences.java",
           "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
           "sha": "a2004931e2dd52805b11fcc36899fecefadc6a3d",
-          "lastSyncedAt": "2026-09-22T06:54:22.891Z"
+          "lastSyncedAt": "2026-10-06T06:01:12.209Z"
         }
       ]
     },
