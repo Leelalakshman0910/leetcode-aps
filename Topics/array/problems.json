@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T06:04:17.201Z",
+  "updatedAt": "2026-10-06T06:04:26.371Z",
   "problems": [
     {
       "frontendId": "75",
@@ -263,6 +263,26 @@
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.java",
           "sha": "7aa2d12d7b213b2d7d854e440bb372002deda389",
           "lastSyncedAt": "2026-10-06T06:01:44.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1672-richest-customer-wealth.java",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
+          "sha": "dfebd68e9f890f00a797bdf22b7096d2a9365ce7",
+          "lastSyncedAt": "2026-10-06T06:04:26.371Z"
         }
       ]
     }
