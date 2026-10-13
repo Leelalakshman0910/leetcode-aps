@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-10-06T06:04:26.371Z",
+  "updatedAt": "2026-10-13T06:11:06.481Z",
   "problems": [
     {
       "frontendId": "1672",
@@ -22,7 +23,7 @@
           "filename": "1672-richest-customer-wealth.java",
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
           "sha": "dfebd68e9f890f00a797bdf22b7096d2a9365ce7",
-          "lastSyncedAt": "2026-10-06T06:04:26.371Z"
+          "lastSyncedAt": "2026-10-13T06:11:06.481Z"
         }
       ]
     }
