@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-06T06:57:11.455Z",
+  "updatedAt": "2026-10-13T06:07:36.343Z",
   "problems": [
     {
       "frontendId": "75",
@@ -122,7 +123,7 @@
           "filename": "0622-design-circular-queue.java",
           "path": "0622-design-circular-queue/0622-design-circular-queue.java",
           "sha": "a815f2b0b53a089ce76fb132714ed4bc41e17e5e",
-          "lastSyncedAt": "2026-10-06T06:52:08.147Z"
+          "lastSyncedAt": "2026-10-13T06:07:36.343Z"
         }
       ]
     },
