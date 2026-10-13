@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "data-stream",
-    "name": "Data Stream"
+    "name": "Data Stream",
+    "tagId": "61063"
   },
-  "updatedAt": "2026-10-06T06:01:53.280Z",
+  "updatedAt": "2026-10-13T05:36:50.289Z",
   "problems": [
     {
       "frontendId": "901",
@@ -23,6 +24,26 @@
           "path": "0901-online-stock-span/0901-online-stock-span.java",
           "sha": "e25a7f003ed0d872f3fe423efa683e445b48a4a9",
           "lastSyncedAt": "2026-10-06T06:01:53.280Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "933",
+      "title": "Number of Recent Calls",
+      "slug": "number-of-recent-calls",
+      "problemName": "0933-number-of-recent-calls",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+      "folderPath": "0933-number-of-recent-calls/",
+      "readmePath": "0933-number-of-recent-calls/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0933-number-of-recent-calls.java",
+          "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.java",
+          "sha": "1cb483d1a99f05714f3e914d31c97a08d04ea5b7",
+          "lastSyncedAt": "2026-10-13T05:36:50.289Z"
         }
       ]
     },
