@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-13T06:09:11.988Z",
+  "updatedAt": "2026-10-13T06:09:18.015Z",
   "problems": [
     {
       "frontendId": "496",
@@ -63,7 +63,7 @@
           "filename": "0901-online-stock-span.java",
           "path": "0901-online-stock-span/0901-online-stock-span.java",
           "sha": "e25a7f003ed0d872f3fe423efa683e445b48a4a9",
-          "lastSyncedAt": "2026-10-06T06:01:53.280Z"
+          "lastSyncedAt": "2026-10-13T06:09:18.015Z"
         }
       ]
     },
