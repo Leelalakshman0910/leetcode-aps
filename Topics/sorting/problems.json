@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:11:00.856Z",
+  "updatedAt": "2026-10-13T06:11:10.600Z",
   "problems": [
     {
       "frontendId": "75",
@@ -43,7 +43,7 @@
           "filename": "0905-sort-array-by-parity.java",
           "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.java",
           "sha": "d3a70817b87563ef0556033f26d3ec2a2dd77edf",
-          "lastSyncedAt": "2026-10-06T06:04:35.174Z"
+          "lastSyncedAt": "2026-10-13T06:11:10.600Z"
         }
       ]
     },
