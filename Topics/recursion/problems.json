@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "recursion",
-    "name": "Recursion"
+    "name": "Recursion",
+    "tagId": "31"
   },
-  "updatedAt": "2026-10-06T06:02:59.639Z",
+  "updatedAt": "2026-10-13T06:10:05.532Z",
   "problems": [
     {
       "frontendId": "25",
@@ -22,7 +23,7 @@
           "filename": "0025-reverse-nodes-in-k-group.java",
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "e02059207add6d917fb14f06e0e91824bd08b298",
-          "lastSyncedAt": "2026-10-06T06:02:50.466Z"
+          "lastSyncedAt": "2026-10-13T06:10:05.532Z"
         }
       ]
     },
