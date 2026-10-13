@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T06:09:02.132Z",
+  "updatedAt": "2026-10-13T06:09:06.032Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,7 +23,7 @@
           "filename": "0020-valid-parentheses.java",
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "9dbce83af6bfa256bcab84ef6afb71ffba4bfff9",
-          "lastSyncedAt": "2026-10-06T06:01:37.103Z"
+          "lastSyncedAt": "2026-10-13T06:09:06.032Z"
         }
       ]
     },
