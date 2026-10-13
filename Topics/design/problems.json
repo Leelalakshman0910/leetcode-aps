@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-13T06:07:36.343Z",
+  "updatedAt": "2026-10-13T06:08:13.322Z",
   "problems": [
     {
       "frontendId": "155",
@@ -163,7 +163,7 @@
           "filename": "1603-design-parking-system.cpp",
           "path": "1603-design-parking-system/1603-design-parking-system.cpp",
           "sha": "33eb5d350d10d0cc4b7528903af63fcd48cab6ba",
-          "lastSyncedAt": "2026-10-06T06:00:32.739Z"
+          "lastSyncedAt": "2026-10-13T06:08:13.322Z"
         }
       ]
     }
