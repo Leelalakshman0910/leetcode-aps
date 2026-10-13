@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T05:46:24.146Z",
+  "updatedAt": "2026-10-13T05:56:28.545Z",
   "problems": [
     {
       "frontendId": "100",
@@ -24,6 +24,26 @@
           "path": "0100-same-tree/0100-same-tree.java",
           "sha": "0099eb3e1db293698bc207e71a0f74e9900142ed",
           "lastSyncedAt": "2026-10-13T05:46:24.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0101-symmetric-tree.java",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.java",
+          "sha": "f12d4a76eebfbe5c7b76172e98f56aee58fae433",
+          "lastSyncedAt": "2026-10-13T05:56:28.545Z"
         }
       ]
     },
