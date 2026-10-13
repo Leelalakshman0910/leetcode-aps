@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T06:27:13.344Z",
+  "updatedAt": "2026-10-13T06:34:13.038Z",
   "problems": [
     {
       "frontendId": "94",
@@ -84,6 +84,26 @@
           "path": "0112-path-sum/0112-path-sum.java",
           "sha": "04c7c4571e7f20cfa7b655d98a33a9bd75683073",
           "lastSyncedAt": "2026-10-13T06:27:13.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "problemName": "0113-path-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+      "folderPath": "0113-path-sum-ii/",
+      "readmePath": "0113-path-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0113-path-sum-ii.java",
+          "path": "0113-path-sum-ii/0113-path-sum-ii.java",
+          "sha": "b2e8830bcfb33679b7a8b4b48bcbfa08768d3d2f",
+          "lastSyncedAt": "2026-10-13T06:34:13.038Z"
         }
       ]
     },
