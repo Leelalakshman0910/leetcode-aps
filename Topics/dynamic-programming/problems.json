@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-06T06:03:43.464Z",
+  "updatedAt": "2026-10-13T06:10:38.018Z",
   "problems": [
     {
       "frontendId": "121",
@@ -22,7 +23,7 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.java",
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "5b980892e4375397f064d192e7025b28238470d7",
-          "lastSyncedAt": "2026-10-06T06:03:43.464Z"
+          "lastSyncedAt": "2026-10-13T06:10:38.018Z"
         }
       ]
     }
