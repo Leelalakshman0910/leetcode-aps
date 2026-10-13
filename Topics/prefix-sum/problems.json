@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-10-06T06:04:53.605Z",
+  "updatedAt": "2026-10-13T06:10:56.184Z",
   "problems": [
     {
       "frontendId": "724",
@@ -22,7 +23,7 @@
           "filename": "0724-find-pivot-index.java",
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "0d318ef9860fa40c8a5460e0372e0e1d93947b44",
-          "lastSyncedAt": "2026-10-06T06:04:08.768Z"
+          "lastSyncedAt": "2026-10-13T06:10:56.184Z"
         }
       ]
     },
