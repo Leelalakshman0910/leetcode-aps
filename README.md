@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 26 | 13 | 2 |
+| 42 | 27 | 13 | 2 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 8 |
 | 2026-09-15 | 6 |
 | 2026-09-22 | 1 |
-| 2026-10-13 | 5 |
+| 2026-10-13 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 41% |
-| Stack | 13 | 32% |
-| Two Pointers | 9 | 22% |
-| Design | 8 | 20% |
-| Linked List | 8 | 20% |
+| Array | 17 | 40% |
+| Stack | 13 | 31% |
+| Two Pointers | 9 | 21% |
+| Design | 8 | 19% |
+| Linked List | 8 | 19% |
+| Binary Tree | 7 | 17% |
 | String | 7 | 17% |
-| Binary Tree | 6 | 15% |
-| Tree | 6 | 15% |
-| Depth-First Search | 5 | 12% |
-| Hash Table | 5 | 12% |
+| Tree | 7 | 17% |
+| Depth-First Search | 6 | 14% |
+| Breadth-First Search | 5 | 12% |
 
 ## Topics
 
@@ -49,13 +49,13 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 17 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 7 |
+| [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 4 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Stream](Topics/data-stream/) | 3 |
-| [Depth-First Search](Topics/depth-first-search/) | 6 |
+| [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Design](Topics/design/) | 8 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
@@ -77,6 +77,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 14 |
 | [String](Topics/string/) | 7 |
-| [Tree](Topics/tree/) | 7 |
+| [Tree](Topics/tree/) | 8 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
