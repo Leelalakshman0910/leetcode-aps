@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 26 | 13 | 2 |
+| 40 | 25 | 13 | 2 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 8 |
 | 2026-09-15 | 6 |
 | 2026-09-22 | 1 |
-| 2026-10-13 | 5 |
+| 2026-10-13 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 41% |
-| Stack | 13 | 32% |
-| Two Pointers | 9 | 22% |
+| Array | 17 | 43% |
+| Stack | 12 | 30% |
+| Two Pointers | 9 | 23% |
 | Design | 8 | 20% |
 | Linked List | 8 | 20% |
-| String | 7 | 17% |
-| Binary Tree | 6 | 15% |
-| Tree | 6 | 15% |
-| Depth-First Search | 5 | 12% |
-| Hash Table | 5 | 12% |
+| String | 7 | 18% |
+| Binary Tree | 5 | 13% |
+| Hash Table | 5 | 13% |
+| Tree | 5 | 13% |
+| Breadth-First Search | 4 | 10% |
 
 ## Topics
 
