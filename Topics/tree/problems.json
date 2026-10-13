@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T06:07:12.981Z",
+  "updatedAt": "2026-10-13T06:07:21.040Z",
   "problems": [
     {
       "frontendId": "94",
@@ -43,7 +43,7 @@
           "filename": "0100-same-tree.java",
           "path": "0100-same-tree/0100-same-tree.java",
           "sha": "0099eb3e1db293698bc207e71a0f74e9900142ed",
-          "lastSyncedAt": "2026-10-13T05:46:24.146Z"
+          "lastSyncedAt": "2026-10-13T06:07:21.040Z"
         }
       ]
     },
