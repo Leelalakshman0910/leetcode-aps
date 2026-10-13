@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 21 | 13 | 2 |
+| 37 | 22 | 13 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 1 days | 11 |
+| 1 days | 1 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,21 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 8 |
 | 2026-09-15 | 6 |
 | 2026-09-22 | 1 |
+| 2026-10-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 47% |
-| Stack | 11 | 31% |
-| Two Pointers | 9 | 25% |
+| Array | 17 | 46% |
+| Stack | 11 | 30% |
+| Two Pointers | 9 | 24% |
+| Design | 8 | 22% |
 | Linked List | 8 | 22% |
-| Design | 7 | 19% |
 | String | 7 | 19% |
 | Hash Table | 5 | 14% |
 | Monotonic Stack | 4 | 11% |
-| Queue | 3 | 8% |
-| Simulation | 3 | 8% |
+| Queue | 4 | 11% |
+| Data Stream | 3 | 8% |
 
 ## Topics
 
@@ -53,9 +54,9 @@ Contains topicwise list of solved problems.
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
-| [Data Stream](Topics/data-stream/) | 2 |
+| [Data Stream](Topics/data-stream/) | 3 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Design](Topics/design/) | 7 |
+| [Design](Topics/design/) | 8 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
@@ -67,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
-| [Queue](Topics/queue/) | 3 |
+| [Queue](Topics/queue/) | 4 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
