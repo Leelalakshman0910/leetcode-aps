@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 24 | 13 | 2 |
+| 40 | 25 | 13 | 2 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-08 | 8 |
 | 2026-09-15 | 6 |
 | 2026-09-22 | 1 |
-| 2026-10-13 | 3 |
+| 2026-10-13 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 44% |
-| Stack | 11 | 28% |
+| Array | 17 | 43% |
+| Stack | 12 | 30% |
 | Two Pointers | 9 | 23% |
-| Design | 8 | 21% |
-| Linked List | 8 | 21% |
+| Design | 8 | 20% |
+| Linked List | 8 | 20% |
 | String | 7 | 18% |
+| Binary Tree | 5 | 13% |
 | Hash Table | 5 | 13% |
-| Binary Tree | 4 | 10% |
+| Tree | 5 | 13% |
 | Breadth-First Search | 4 | 10% |
-| Monotonic Stack | 4 | 10% |
 
 ## Topics
 
@@ -49,13 +49,13 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 17 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 5 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 4 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Stream](Topics/data-stream/) | 3 |
-| [Depth-First Search](Topics/depth-first-search/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Design](Topics/design/) | 8 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
@@ -75,8 +75,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 11 |
+| [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 7 |
-| [Tree](Topics/tree/) | 4 |
+| [Tree](Topics/tree/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
