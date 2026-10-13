@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T06:08:27.215Z",
+  "updatedAt": "2026-10-13T06:09:43.408Z",
   "problems": [
     {
       "frontendId": "25",
@@ -83,7 +83,7 @@
           "filename": "0160-intersection-of-two-linked-lists.java",
           "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.java",
           "sha": "62236512962282a609314c7ac883fb5ba859da68",
-          "lastSyncedAt": "2026-10-06T06:02:22.600Z"
+          "lastSyncedAt": "2026-10-13T06:09:43.408Z"
         }
       ]
     },
