@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "range-minimum-maximum-query",
-    "name": "Range Minimum/Maximum Query"
+    "name": "Range Minimum/Maximum Query",
+    "tagId": "122086"
   },
-  "updatedAt": "2026-10-06T06:00:17.205Z",
+  "updatedAt": "2026-10-13T06:07:57.503Z",
   "problems": [
     {
       "frontendId": "239",
@@ -22,7 +23,7 @@
           "filename": "0239-sliding-window-maximum.java",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "71577295a200c271b04b7eb8bb231202014868d4",
-          "lastSyncedAt": "2026-10-06T06:00:17.205Z"
+          "lastSyncedAt": "2026-10-13T06:07:57.503Z"
         }
       ]
     }
